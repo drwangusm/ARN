@@ -10,6 +10,5 @@ It contains an implementation of our Attention Relational Network (ARN), an end-
 </div>
 
 
-The source code will full open after the paper accepted.
 
-
+We will make improvement for the ARN,codes will come soon until it success.
